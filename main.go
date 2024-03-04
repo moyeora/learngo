@@ -1,11 +1,7 @@
 package main
 
-import (
-	"fmt"
-	"boo/something"
-)
+import "fmt"
 
 func main() {
 	fmt.Println("Hello world!")
-	something.SayHello()
 }
